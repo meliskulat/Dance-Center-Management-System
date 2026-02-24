@@ -1,2 +1,2 @@
 # Dance-Center-Management-System
-Database system for a dance center to manage user data.
+Developed a Java-based database management system with a graphical user interface (GUI) for managing dance center user records. The system includes a login and registration module for user authentication, followed by an admin-style interface that allows adding, deleting, and searching user data. Designed the application to handle user interactions efficiently through a structured GUI, ensuring ease of use and organized data management.
