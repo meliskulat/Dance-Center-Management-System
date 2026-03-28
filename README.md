@@ -11,9 +11,6 @@ The key aspects of this project include:
 - The user interface is built using the Java Swing library, organized into different frames for each task
 - Core Object-Oriented Programming (OOP) concepts like Inheritance and Encapsulation are used to organize dancer types
 
-## UML Diagram
-![UML Diagram](umlDiagram.jpeg)
-
 ## Tech Stack  
 
 **Language**: Java 
