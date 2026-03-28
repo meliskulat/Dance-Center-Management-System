@@ -5,14 +5,14 @@ Developed a Java-based database management system with a graphical user interfac
 
 The key aspects of this project include:
 
-- The game features an interactive 4x4 grid where tiles are activated randomly using JavaScript to test player actions
-- A real-time scoring logic is implemented with a system that rewards faster reaction times, each tile offers maximum 10 points
--High score persistence is applied by using localStorage to save and display the best performance     
-- The user experience is enhanced with smooth CSS transitions, confetti effect for new high score
-- Automatic game management handles the 10-second timer and it states a prompt to play again for the user
+- The system is a Java-based management tool designed to handle dance center records through a graphical interface
+-It includes a functional login and registration module to manage access to the administrative panel
+-The main interface allows users to add new dancers, delete existing records, and search for specific entries  
+- The user interface is built using the Java Swing library, organized into different frames for each task
+- Core Object-Oriented Programming (OOP) concepts like Inheritance and Encapsulation are used to organize dancer types
 
 ## UML Diagram
-- The fallowing diagram illustrates the class relationships and the overall architecture of the system 
+![UML Diagram](umlDiagram.jpeg)
 
 ## Tech Stack  
 
