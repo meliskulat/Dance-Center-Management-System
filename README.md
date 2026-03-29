@@ -5,11 +5,11 @@ Developed a Java-based database management system with a graphical user interfac
 
 The key aspects of this project include:
 
-- The system is a Java-based management tool designed to handle dance center records through a graphical interface
--It includes a functional login and registration module to manage access to the administrative panel   
--The main interface allows users to add new dancers, delete existing records, and search for specific entries  
-- The user interface is built using the Java Swing library, organized into different frames for each task
-- Core Object-Oriented Programming (OOP) concepts like Inheritance and Encapsulation are used to organize dancer types
+- The system is a Java-based management tool designed to handle dance center records through a graphical interface    
+-It includes a functional login and registration module to manage access to the administrative panel       
+-The main interface allows users to add new dancers, delete existing records, and search for specific entries       
+- The user interface is built using the Java Swing library, organized into different frames for each task    
+- Core Object-Oriented Programming (OOP) concepts like Inheritance and Encapsulation are used to organize dancer types  
 
 ## Tech Stack  
 
